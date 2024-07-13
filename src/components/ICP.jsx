@@ -29,7 +29,7 @@ export default function ICP() {
         target="_blank"
         href="http://www.beian.miit.gov.cn/"
       >
-        京ICP备16015459号-1
+        冀ICP备2023039098号
       </a>
     </StyledWrapper>
   );
